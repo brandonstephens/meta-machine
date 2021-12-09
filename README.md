@@ -1,8 +1,8 @@
-# Meta Machine
+# ⚙️ Meta Machine
 
-Takes a file with a list of urls and outputs CSV of url, title, desc.
+Command that takes a file with a list of urls and outputs CSV of url, title, desc.
 
-## Installation
+## 💾 Installation
 
 1. nvm use
 2. npm install
@@ -17,9 +17,10 @@ https://brandonstephens.me/work/
 https://brandonstephens.me/resume/
 ```
 
-## Roadmap
+## 🗺 Roadmap
 
 - [ ] allow passing stdin
 - [ ] allow std out
 - [ ] excape csv values properly
 - [ ] allow flags for which columns to output
+- [ ] allow passing a sitemap.xml directly
