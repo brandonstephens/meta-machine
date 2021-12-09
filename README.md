@@ -19,7 +19,6 @@ https://brandonstephens.me/resume/
 
 ## 🗺 Roadmap
 
-- [ ] make this a public tool
 - [ ] allow passing stdin
 - [ ] allow std out
 - [ ] excape csv values properly
